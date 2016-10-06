@@ -20,7 +20,7 @@ A downloadable version (most recent from 2009) of Neptune can be found [here (in
 
 The application uses the following third party libraries:
 
-  - **RiverLayout** by David Ekholm (v. 1.1 (2005-05-23)), license: LGPL
+  - **RiverLayout** by David Ekholm v. 1.1 (2005-05-23), license: LGPL
 
 # License
 
