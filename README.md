@@ -12,6 +12,8 @@ The following resources are available in the repository:
  - The protocol specifications: [the original specification (v1)](/protocol_v1-[06-11-09].pdf?raw=true) and [the updated specification (v2)](/protocol_v2-[06-12-09].pdf?raw=true) (only in German)
  - [A short presentation](/neptune-1.5G.pdf?raw=true) (only in German)
 
+**Tip:** you can read and see more about Neptune on my project archive [here](http://maxstrauch.github.io/projects/neptune/index.html). *Check it out!*
+
 # Download
 
 A downloadable version (most recent from 2009) of Neptune can be found [here (in `dist/neptune.jar`)](/dist/neptune.jar?raw=true). No further libraries are needed.
