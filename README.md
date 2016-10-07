@@ -4,7 +4,7 @@
 
 Neptune is a network based variant of the popular [SameGame](https://en.wikipedia.org/wiki/SameGame) written in Java using the Java Net API and Java SWING.
 
-I wrote this program from scratch back in 2009 at high school as a learning project to get used to network programming and deepen my knowledge about SWING. Furthermore I tried out various design patterns (like a MVC variant) to get used to them. Neptune is based on the [Client–server model](https://en.wikipedia.org/wiki/Client%E2%80%93server_model) where the Neptune Server serves the games to the Neptune clients which compete against each other. 
+I wrote this program from scratch back in 2009 at high school as a learning project to get used to network programming and deepen my knowledge about SWING. Furthermore I tried out various design patterns (like a MVC variant) to get used to them. Neptune is based on the [Client–server model](https://en.wikipedia.org/wiki/Client%E2%80%93server_model) where the Neptune Server serves the game to the Neptune clients which compete against each other. 
 
 The following resources are available in the repository:
 
